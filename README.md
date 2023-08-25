@@ -1,9 +1,7 @@
 # azure_data_eng
 
 ## Diagram 
-![image](https://github.com/antoniskef/azure_data_eng/assets/93796754/0c08a252-5dec-4fea-83df-94a280a43b9f)
-
-For educational reasons all these services are used 
+![image](https://github.com/antoniskef/azure_data_eng/assets/93796754/0b398964-a485-4a25-8f95-99b0fa5e4d22)
 
 ## Data Lake Gen 2
 I create a storage account that has a hierarchical namespace. Then I create a container with two directories (raw and transformed data).
