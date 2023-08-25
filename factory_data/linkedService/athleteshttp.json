@@ -1,0 +1,12 @@
+{
+	"name": "athleteshttp",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/antoniskef/azure_data_eng/main/data/Athletes.csv?token=GHSAT0AAAAAACGWPOQI6RO4W36EGU7HJRRKZHIRYYA",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
