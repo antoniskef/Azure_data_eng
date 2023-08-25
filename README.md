@@ -9,6 +9,7 @@ I create a storage account that has a hierarchical namespace. Then I create a co
 ## Data Factory 
 Deploy a data factory for data ingestion. The source is the file "data" from this repository and the destination is the "raw data" directory of the azure data lake gen 2 that has been already created. 
 
+![image](https://github.com/antoniskef/azure_data_eng/assets/93796754/c8ff17ab-96d1-4f3a-b9a2-c432e2f0b63c)
 
 
 
