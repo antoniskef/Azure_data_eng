@@ -12,5 +12,5 @@ Deploy a data factory for data ingestion. The source is the file "data" from thi
 ![image](https://github.com/antoniskef/azure_data_eng/assets/93796754/c8ff17ab-96d1-4f3a-b9a2-c432e2f0b63c)
 
 ## Azure Databricks 
-Firstly create an azure databricks workspace and then create a cluster. After create a connection between data lake (raw data) with databricks using app registrations. Finally transform data using spark. Notebook 
+Firstly create an azure databricks workspace and then create a cluster. After create a connection between data lake (raw data) with databricks using app registrations. Finally transform data using spark (data_engineering_1.ipynb).
 
