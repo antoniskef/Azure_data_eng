@@ -14,7 +14,7 @@ Deploy a data factory for data ingestion. The source is the file "data" from thi
 ## Azure Databricks 
 Firstly create an azure databricks workspace and then create a cluster. After create a connection between data lake (raw data) with databricks using app registrations. Finally transform data using spark (data_engineering_1.ipynb).
 
-## Azure synapse analytics 
+## Azure Synapse Analytics 
 Azure synapse analytics is used for data analysis with sql.
 ![image](https://github.com/antoniskef/azure_data_eng/assets/93796754/a6542569-aec1-480d-b98c-80792a4a4220)
 Azure synapse analytics could have been used for data ingestion and transformation too, but in order to learn how to connnect different services the above procedure was chosen.
